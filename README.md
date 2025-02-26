@@ -54,6 +54,7 @@ Run the script:
 Enter the secret message and passcode when prompted.
 Open the "encryptedImage.jpg" file to see the modified image.
 To decrypt, enter the correct passcode when prompted.
+
 Future Enhancements
 
 🔹 Stronger encryption for added security
